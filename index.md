@@ -18,7 +18,7 @@ mainfont: Helvetica
 
 Please join us as we explore wide variety of applications of data science and highlight the work of exceptional women data scientists in this field.
 
-This is a virtual event. Please register here.
+This is a virtual event. Please register [here](https://www.eventbrite.com/e/wids-boston-2021-tickets-151146851301).
 
 ## Agenda
 
