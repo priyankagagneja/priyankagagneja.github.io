@@ -1,7 +1,9 @@
 **Priyanka Gagneja**   
 Based : Natick, Massachusetts, US - 01760;    
 Connect with me: 
-[Email](priyankaigit@gmail.com) [Phone](508-215-7316)  [Twitter](https://twitter.com/priyankaigit );  Rstats & Climate change related tweeta mostly as @priyankaigit   
+[Email](priyankaigit@gmail.com) [Phone](508-215-7316)  [Twitter](https://twitter.com/priyankaigit );   
+Rstats & Climate change related tweets mostly as @priyankaigit   
+
 Social Profile(some bit of work):
 [1. Linkedin](https://www.linkedin.com/in/priyanka-gagneja/) [2. Rpubs](https://www.rpubs.com/priyankaigit)  [3. Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
 
