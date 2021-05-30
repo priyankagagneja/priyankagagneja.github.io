@@ -1,9 +1,9 @@
 **Priyanka Gagneja**   
 Based : Natick, Massachusetts, US - 01760;    
 Connect with me: 
-[Email](priyankaigit@gmail.com) [Phone](508-215-7316)  [Twitter](@priyankaigit);   
-Social Profile:
-[Linkedin](https://www.linkedin.com/in/priyanka-gagneja/) [Rpubs](www.rpubs.com/priyankaigit)  [Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
+[Email](priyankaigit@gmail.com) [Phone](508-215-7316)  [Twitter](https://twitter.com/priyankaigit );  Rstats & Climate change related tweeta mostly as @priyankaigit   
+Social Profile(some bit of work):
+[1. Linkedin](https://www.linkedin.com/in/priyanka-gagneja/) [2. Rpubs](https://www.rpubs.com/priyankaigit)  [3. Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
 
 ***EMPLOYMENT PROFILE***  
 Passionate, self-motivated Analytics/Consulting professional worked across industries like retail, education & financial services. Curious, Quick learner, relentless and always willing to learn new tools and technologies. Looking forward to exploring a variety of opportunities that data can bring.     
