@@ -1,11 +1,17 @@
-**Priyanka Gagneja**   
-Based : Natick, Massachusetts, US - 01760;    
+[**Priyanka Gagneja**](priyankagagneja.github.io)   
+Base Location : Natick, Massachusetts, US - 01760;    
 Connect with me: 
-[Email](priyankaigit@gmail.com) [Phone](508-215-7316)  [Twitter](https://twitter.com/priyankaigit );   
+[Email](priyankaigit@gmail.com)       [Phone](+1 508-215-7316)         [Twitter](https://twitter.com/priyankaigit )            [Linkedin](https://www.linkedin.com/in/priyanka-gagneja/);       
+CV: 
+
 Rstats & Climate change related tweets mostly as @priyankaigit   
 
-Social Profile(some bit of work):
-[1. Linkedin](https://www.linkedin.com/in/priyanka-gagneja/) [2. Rpubs](https://www.rpubs.com/priyankaigit)  [3. Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
+Social Profile(some sample open-source work):
+[Github](https://github.com/priyankagagneja)
+[Blog](https://fun-with-data.netlify.app/)
+[Talks](https://github.com/priyankagagneja/Talks)
+[Rpubs](https://www.rpubs.com/priyankaigit)      
+[Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
 
 ***EMPLOYMENT PROFILE***  
 Passionate, self-motivated Analytics/Consulting professional worked across industries like retail, education & financial services. Curious, Quick learner, relentless and always willing to learn new tools and technologies. Looking forward to exploring a variety of opportunities that data can bring.     
@@ -29,12 +35,15 @@ Comfortable working with -
 
 ***WORK EXPERIENCE (Oct 2006 – Present)***
 
+**Data Science Consultant – Onpoint Insights, Boston, MA, US**	   	                July/2021 - Present
+- Improvising, streamlining and automating monthly reporting in R/R Shiny for the post market quality team for a global medical technology client
+- Consulting cross-functional teams for Tableau/PowerBI related reporting needs
 
-**Sr Business Data Analyst – LoseIt!, Boston, MA, US**	   	       Oct/2020 – Present
+**Sr Business Data Analyst – LoseIt!, Boston, MA, US**	   	                        Oct/2020 – July/2021
 - Data Analysis to understand customer satisfaction, drivers of subscription cancellations, identifying patterns for reactivation in food logging.
 - Markov attribution analysis to be able to individually attribute the impact of each creative to conversion.
 
-**Sr Data Analyst – IRIS, Burlington, MA, US**	   	  Feb/2020 – Oct/2020
+**Sr Data Analyst – IRIS, Burlington, MA, US**	   	                                Feb/2020 – Oct/2020
 - Handling multiple projects at a time on report migration from SAS and Excel reports to Tableau, using data from Google Big Query for marketing team.  
 - Tableau Reporting on Entire Customer Journey for Online flower selling brand in Azure environment for strategy planning.
 
