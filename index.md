@@ -1,17 +1,21 @@
 [**Priyanka Gagneja**](priyankagagneja.github.io)   
 Base Location : Natick, Massachusetts, US - 01760;    
-Connect with me: 
-[Email](priyankaigit@gmail.com)       [Phone](+1 508-215-7316)         [Twitter](https://twitter.com/priyankaigit )            [Linkedin](https://www.linkedin.com/in/priyanka-gagneja/);       
-CV: 
+
+Connect with me:; 
+[Email](priyankaigit@gmail.com);       
+[Phone](+1 508-215-7316);         
+[Twitter](https://twitter.com/priyankaigit);            
+[Linkedin](https://www.linkedin.com/in/priyanka-gagneja/);       
+[CV](https://github.com/priyankagagneja/cv-automation-in-r/blob/master/CV.pdf);
 
 Rstats & Climate change related tweets mostly as @priyankaigit   
 
-Social Profile(some sample open-source work):
-[Github](https://github.com/priyankagagneja)
-[Blog](https://fun-with-data.netlify.app/)
-[Talks](https://github.com/priyankagagneja/Talks)
-[Rpubs](https://www.rpubs.com/priyankaigit)      
-[Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)      
+Social Profile(some sample open-source work):;
+[Github](https://github.com/priyankagagneja);
+[Blog](https://fun-with-data.netlify.app/);
+[Talks](https://github.com/priyankagagneja/Talks);
+[Rpubs](https://www.rpubs.com/priyankaigit);      
+[Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/);      
 
 ***EMPLOYMENT PROFILE***  
 Passionate, self-motivated Analytics/Consulting professional worked across industries like retail, education & financial services. Curious, Quick learner, relentless and always willing to learn new tools and technologies. Looking forward to exploring a variety of opportunities that data can bring.     
