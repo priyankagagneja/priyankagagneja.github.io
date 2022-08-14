@@ -86,7 +86,8 @@ Working for financial services client in a SaaS environment user of Infor’s CR
 - Provided insights to an insurance client by tracking various metrics’ (total claims, claims by policy type/gender/location etc.) aiming to minimize the claims losses and improving insurance policy pricing trying to win more customers.
  
  
-***Teaching Experiences*** 
+***TEACHING EXPERIENCE ***     
+
 **Course Assistant - Applied Linear Modelling @ School of Social Policy, University of Pennsylvania, US** - Remote - Fall 2021
 - Teaching linear modelling concepts and introduction to R as part of course labs 
 
