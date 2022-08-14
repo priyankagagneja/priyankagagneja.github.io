@@ -57,36 +57,29 @@ Working for financial services client in a SaaS environment user of Infor’s CR
 - Recommend more financial products to cross-sell (collaborative filtering techniques). For the UI that contact center uses was developed as an app using R Shiny.  
 - Exploring opportunities for NLP/text analytics to improve the current customer acquisition models as well as develop customer retention.
 
-**Adjunct Faculty – Sawyer Business School, Suffolk University, Boston, MA, US**             		       	Spring 2019
-- Taught a course on Business Intelligence & Data Analysis using Tableau & R.
-
-**Adjunct Faculty – Bay State College, Boston, MA, US**                      		       	     Fall 2019
-- Designed an undergraduate course on ‘Data Visualization using Tableau’.
-- Currently designing an undergraduate ‘Programming in Python’ course for Fall 2021.
-
-**Sr Pricing Analyst – Staples, Framingham, MA, US**                                                     	   Nov/2018 – Jan/2019
+**Sr Pricing Analyst – Staples, Framingham, MA, US**                             	   Nov/2018 – Jan/2019
 - Developed Reports for contract pricing team, focused on Paper sales & measure performance of the vendor. 
 
-**Sr Data Analyst – Home Depot (via Ugam Solutions Inc), Atlanta, GA, US**  	      July/2018 – Nov/2018
+**Sr Data Analyst – Home Depot (via Ugam Solutions Inc), Atlanta, GA, US**  	        July/2018 – Nov/2018
 - Identified the substitutable item groups for assortment planning team of a home improvement chain. Achieved this by performing web scraping of Left Navigation filter information from homedepot.com & its competitor’s ecommerce portal using Google Analytics, ranking it using search results from Google Ad-words.
 
-**Research Assistant – Boston College, Chestnut Hill, MA, US (Part-Time)**	    Jan/2018 – June/2018
+**Research Assistant – Boston College, Chestnut Hill, MA, US (Part-Time)**	           Jan/2018 – June/2018
 - Worked as a data analyst while doing Master’s in Applied Economics at Boston College. At Lynch school, education department I worked with the research scholars of help establish hypotheses on middle school kids’ behavior and responses towards activities supporting STEM learning using R, SQL and Tableau. 
 
-**Business Analyst, Accenture Management Consulting, Bangalore**	        May/2011 – Feb/2015
+**Business Analyst, Accenture Management Consulting, Bangalore**	                      May/2011 – Feb/2015
 - Improved demand planning strategies for a beer giant resulting in benefit of nearly $1.5 MN.
 - Developed a quick, low-cost excel-based POC tool for forecasting including few sophisticated ARIMA models with a turnaround time of 1-week about 2.5X faster.
 - Enhanced an internal tool used for spare parts planning by using Excel Solver to obtain optimal solutions thus reducing about 30% of manual intervention.
 - Developed R-based tool for providing warranty solutions from early defect identification.
 - Trained peers on ‘SAS’ and ‘Intro to Tableau’ throughout several sessions. Awarded “Trainer of Quarter” twice 4.2/5 rating.
 
-**Sr. Business Analyst, Mu Sigma Business Solutions, Bangalore**	      Mar/2010 – May/2011
+**Sr. Business Analyst, Mu Sigma Business Solutions, Bangalore**	                       Mar/2010 – May/2011
 - Modelled propensity to buy, wallet share and customer segmentation from marketing analytics standpoint.
 - Provided supply chain predictive analytics for the US-based retail client for divisions including retail stores, financial planning and analysis and inventory planning, using SAS & SQL. 
 - Provided insights to an insurance client by tracking various metrics’ (total claims, claims by policy type/gender/location etc.) aiming to minimize the claims losses and improving insurance policy pricing trying to win more customers.
  
  
-***TEACHING EXPERIENCE ***     
+***TEACHING EXPERIENCE***     
 
 **Course Assistant - Applied Linear Modelling @ School of Social Policy, University of Pennsylvania, US** - Remote - Fall 2021
 - Teaching linear modelling concepts and introduction to R as part of course labs 
