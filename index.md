@@ -1,9 +1,11 @@
 [**Priyanka Gagneja**](priyankagagneja.github.io)   
 Base Location: Natick, Massachusetts, US - 01760    
+Current Location: Bangalore, India - 560064    
 
 Connect with me:         
 [Email](priyankaigit@gmail.com) | 
-[Phone](508-215-7316) | 
+[Phone-US](508-215-7316) | 
+[Phone-India](9667157090) | 
 [Linkedin](https://www.linkedin.com/in/priyanka-gagneja/) | 
 [Twitter](https://twitter.com/priyankaigit) - Rstats & Climate change related tweets to be seen mostly                  
 
@@ -18,7 +20,7 @@ Social Presence(some sample open-source work):
 [Tableau Public](https://public.tableau.com/profile/priyanka.gagneja#!/)           
 
 ***EMPLOYMENT PROFILE***  
-Passionate, self-motivated Analytics/Consulting professional worked across industries like retail, education & financial services. Curious, Quick learner, relentless and always willing to learn new tools and technologies. Looking forward to exploring a variety of opportunities that data can bring.     
+Passionate, self-motivated Analytics/Consulting professional worked across industries like retail, education, financial services & life sciences. Curious, Quick learner, relentless and always willing to learn new tools and technologies. Looking forward to exploring a variety of opportunities that data can bring.     
 
 ***PROFESSIONAL SKILLS***   
 Experience working with machine learning techniques like logistic regression, linear regression, RFM analysis, time series forecasting, random forest, boosting, bagging etc.      
