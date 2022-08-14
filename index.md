@@ -70,8 +70,6 @@ Working for financial services client in a SaaS environment user of Infor’s CR
 **Sr Data Analyst – Home Depot (via Ugam Solutions Inc), Atlanta, GA, US**  	      July/2018 – Nov/2018
 - Identified the substitutable item groups for assortment planning team of a home improvement chain. Achieved this by performing web scraping of Left Navigation filter information from homedepot.com & its competitor’s ecommerce portal using Google Analytics, ranking it using search results from Google Ad-words.
 
-**Teaching Assistant – Boston College, Chestnut Hill, MA, US (Part-Time)**	    Aug/2017 – Dec/2017
-- Worked as a TA for undergrad courses on Microeconomics and Macroeconomics while doing Master’s in Applied Economics at Boston College. 
 **Research Assistant – Boston College, Chestnut Hill, MA, US (Part-Time)**	    Jan/2018 – June/2018
 - Worked as a data analyst while doing Master’s in Applied Economics at Boston College. At Lynch school, education department I worked with the research scholars of help establish hypotheses on middle school kids’ behavior and responses towards activities supporting STEM learning using R, SQL and Tableau. 
 
@@ -87,6 +85,24 @@ Working for financial services client in a SaaS environment user of Infor’s CR
 - Provided supply chain predictive analytics for the US-based retail client for divisions including retail stores, financial planning and analysis and inventory planning, using SAS & SQL. 
 - Provided insights to an insurance client by tracking various metrics’ (total claims, claims by policy type/gender/location etc.) aiming to minimize the claims losses and improving insurance policy pricing trying to win more customers.
  
+ 
+***Teaching Experiences*** 
+**Course Assistant - Applied Linear Modelling @ School of Social Policy, University of Pennsylvania, US** - Remote - Fall 2021
+- Teaching linear modelling concepts and introduction to R as part of course labs 
+
+**Teaching Assistant - Data Visualization & Communication @ Rubenstein School of Environment and Natural Resources, University of Vermont, US** - Remote - Aug 2021 - Oct 2021
+- Grading and communicating in the disccussion board for the data visualization course
+
+**Adjunct Faculty – Sawyer Business School, Suffolk University, Boston, MA, US** - Spring 2019
+- Taught a course on Business Intelligence & Data Analysis using Tableau & R.
+
+**Adjunct Faculty – Bay State College, Boston, MA, US** - Fall 2019
+- Designed an undergraduate course on ‘Data Visualization using Tableau’.
+
+**Teaching Assistant – Boston College, Chestnut Hill, MA, US**	    - Fall 2017
+- Worked as a TA for undergrad courses on Microeconomics and Macroeconomics while doing Master’s in Applied Economics at Boston College. 
+
+
 ***EDUCATION***  
 - Master of Science (Applied Economics) from Boston College, US in 2018 with 3.83 GPA (out of 4).
 - Master’s in business administration (Finance) from ICFAI Business School, India in 2009 with 6.91 GPA.
